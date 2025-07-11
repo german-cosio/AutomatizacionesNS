@@ -1,0 +1,1 @@
+worker: python Sistema_de_notificacion_de_facturas_vencidas/main.py
